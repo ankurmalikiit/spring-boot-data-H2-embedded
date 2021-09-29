@@ -1,3 +1,3 @@
-@Library('first-shared-lib') _
+@Library('second-shared-lib') _
 //welcomeJob 'lambdatest'
-jenkinsSample 'https://github.com/iamvickyav/spring-boot-data-H2-embedded.git'
+javaBuild 'https://github.com/ankurmalikiit/spring-boot-data-H2-embedded.git'
